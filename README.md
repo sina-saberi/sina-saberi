@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @sina-saberi
 - 👀 I’m interested in programing and ui design 
-- 🌱 I’m currently learning angular
+- 👨‍💼 I’m using react and dotnet as my main languages to develop awesome apps for web or sometimes for android
+- 🥴 i have sleeping problems
 - 📫 sinacorleon@gmail.com
 
-<!---
-sina-saberi/sina-saberi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
